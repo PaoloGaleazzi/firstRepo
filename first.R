@@ -1,1 +1,1 @@
-print("created on RS, lives in Github")
+print("go")
